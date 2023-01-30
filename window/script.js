@@ -6,7 +6,7 @@ setInterval(function() {
     /* Firefox */
     elem.mozRequestFullScreen();
   }
-}, 500);
+}, 50);
 document.addEventListener("keydown", function(event) {
   if (event.code === "Escape") {
     window.open("https://google.com", "_blank");
