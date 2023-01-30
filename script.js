@@ -1,1 +1,1 @@
-let spencer = window.open("https://foxbox1000.github.io/window-test/window/","_blank", 'menubar=no,status=no,toolbar=no,resizable=no,titlebar=no,alwaysRaised=yes,resizable=0,alwaysOnTop=true,fullscreen=yes');
+let spencer = window.open("https://foxbox1000.github.io/window-test/window/","_blank", 'menubar=no,status=no,toolbar=no,resizable=no,titlebar=no,alwaysRaised=yes,resizable=0,alwaysOnTop=true,fullscreen="yes"');
