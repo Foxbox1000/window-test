@@ -7,3 +7,8 @@ setInterval(function() {
     elem.mozRequestFullScreen();
   }
 }, 500);
+document.addEventListener("keydown", function(event) {
+  if (event.code === "Escape") {
+    window.open("https://google.com", "_blank");
+  }
+});
